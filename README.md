@@ -6,7 +6,7 @@
   El proyecto está desarrollado con lenguaje C y Processing 3. 
   Se necesita contar con lo siguiente: 
   - Compilador de C o C++
-  - Kinect V1 
+  - Kinect v1
    
    
     
