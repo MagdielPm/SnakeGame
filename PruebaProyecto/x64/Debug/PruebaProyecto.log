@@ -1,0 +1,44 @@
+﻿  PruebaProyecto.cpp
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(165): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(233): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(235): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(236): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(287): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(385): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(714): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(780): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(781): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(833): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(847): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(903): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(904): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(908): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(909): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(912): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(918): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(920): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(922): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(976): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\magdiel\desktop\materias\proyectos\proyecto snake\pruebaproyecto\pruebaproyecto.cpp(977): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+  PruebaProyecto.vcxproj -> C:\Users\Magdiel\Desktop\Materias\Proyectos\Proyecto Snake\x64\Debug\PruebaProyecto.exe
+  PruebaProyecto.vcxproj -> C:\Users\Magdiel\Desktop\Materias\Proyectos\Proyecto Snake\x64\Debug\PruebaProyecto.pdb (Partial PDB)

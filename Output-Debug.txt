@@ -1,0 +1,53 @@
+﻿'PruebaProyecto.exe' (Win32): Loaded 'C:\Users\Magdiel\Desktop\Materias\Proyectos\Proyecto Snake\x64\Debug\PruebaProyecto.exe'. Symbols loaded.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\wdmaud.drv'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\ksuser.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\msacm32.drv'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\msacm32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\midimap.dll'. Cannot find or open the PDB file.
+'PruebaProyecto.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. Cannot find or open the PDB file.
+The thread 0x1408 has exited with code 0 (0x0).
+The thread 0xcc4 has exited with code 0 (0x0).
+The thread 0x2b4c has exited with code 0 (0x0).
+The thread 0x52c has exited with code 0 (0x0).
+The thread 0x1208 has exited with code 0 (0x0).
+The thread 0x3e80 has exited with code 0 (0x0).
+The thread 0x1148 has exited with code 0 (0x0).
+The thread 0x34f0 has exited with code 0 (0x0).
+The thread 0xd24 has exited with code 0 (0x0).
+The thread 0x1ac0 has exited with code 0 (0x0).
+The thread 0x2378 has exited with code 0 (0x0).
+The thread 0x3d50 has exited with code 0 (0x0).
+The thread 0x326c has exited with code 0 (0x0).
+The thread 0x1f68 has exited with code 0 (0x0).
+The program '[12080] PruebaProyecto.exe' has exited with code 0 (0x0).
