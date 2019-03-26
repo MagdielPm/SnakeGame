@@ -1,5 +1,5 @@
-
-
+# Snake Game
+ Proyecto de progamación estructurada
 ### Acerca del Proyecto
   Se quizo revivir la parte clásica del Snake Game, programado con una interfaz amigable desde la consola, con
   la idea de aplicar una nueva forma de interactuar con el juego y con la consola.
