@@ -1,3 +1,5 @@
+(https://hackster.imgix.net/uploads/attachments/431013/snake_dvlfwCony2.png?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 # Snake Game
  Proyecto de progamación estructurada
 ### Acerca del Proyecto
