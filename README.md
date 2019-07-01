@@ -31,8 +31,7 @@
   Para ejecutar el proyecto comenzamos con lo siguiente: 
 
   El proyecto está desarrollado con lenguaje C y Processing 3. 
-  Se necesita contar con lo siguiente: 
-  Clona SnakeGame desde la rama maestra de mi repositorio de Github
+  Se necesita contar con lo siguiente, pero antes clona SnakeGame desde la rama maestra de mi repositorio de Github
 
 ```bash
 git clone https://github.com/MagdielPm/SnakeGame.git
