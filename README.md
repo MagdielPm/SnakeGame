@@ -1,4 +1,10 @@
-(https://hackster.imgix.net/uploads/attachments/431013/snake_dvlfwCony2.png?auto=compress%2Cformat&w=900&h=675&fit=min)
+
+<h1 align="center">
+  <br>
+  <img src="https://hackster.imgix.net/uploads/attachments/431013/snake_dvlfwCony2.png?auto=compress%2Cformat&w=900&h=675&fit=min" alt="Snake image" width="400">
+  <br>
+</h1>
+
 
 # Snake Game
  Proyecto de progamación estructurada
