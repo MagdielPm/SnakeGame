@@ -33,7 +33,7 @@
  
  En estas funciones podemos identificar de manera clara el MVC y también la modularidad del proyecto, verPuntuaciones() es nuestro controlador, que nos ayuda a manejar nuestra vista top_5(int, int) y  a la vez, gestiona la información de los archivos de texto con el modelo convertirEstructura(struct puntos[5])logrando simular, en una sección de código, un MVC 💡
 
-  ## Instrucciones para compilar y ejecturar 👷🏽‍🛠
+  ## Instrucciones para compilar y ejecutar 👷🏽‍🛠
 
   Para ejecutar el proyecto comenzamos con lo siguiente: 
 
