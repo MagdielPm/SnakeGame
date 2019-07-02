@@ -21,19 +21,19 @@
 
 
  ## Modularidad, alta cohesión y bajo acoplamiento 👨🏽‍🏫
-  La modularidad está presente en cada función utilizada, pues la idea principal es conseguir fraccionar el proyecto en tareas cada vez más pequeñas y de esta forma lograr identificar su sector principal; si una función es para dibujar en consola, su único fin es ese, si un método sirve para modificar los valores de los puntajes, entonces su única labor es esa; cada método sigue un trabajo específico, por ejemplo, el  void SetCursorPosition(int, int) cumple con la finalidad de posicionar el cursor en la pantalla dado una par ordenado.
+  La modularidad está presente en cada función utilizada, pues la idea principal es conseguir fraccionar el proyecto en tareas cada vez más pequeñas y de esta forma lograr identificar su sector principal; si una función es para dibujar en consola, su único fin es ese, si un método sirve para modificar los valores de los puntajes, entonces su única labor es esa; cada método sigue un trabajo específico, por ejemplo, el  `void SetCursorPosition(int, int)` cumple con la finalidad de posicionar el cursor en la pantalla dado una par ordenado.
 
- Existen métodos como void movimientoSerpiente(int *, int *, int *) que recibe como parámetro la dirección de memoria de las variables mencionadas en el prototipo, con el único fin de editar los valores específicos de esas variables dependiendo de la posición del snake y su dirección.
+ Existen métodos como `void movimientoSerpiente(int *, int *, int *)` que recibe como parámetro la dirección de memoria de las variables mencionadas en el prototipo, con el único fin de editar los valores específicos de esas variables dependiendo de la posición del snake y su dirección.
  La finalidad de separar la modularidad de las funciones, es poder identificar de manera clara de cierta forma el patrón de arquitectura mvc como en los siguientes ejemplos: 
- * void verPuntuaciones();
- * void top_5(int, int);
- * void generarPuntuaciones(int, int);
- * void puntajes(int, char[10]);
- * void convertirEstructura(struct puntos[5]);
+ * `void verPuntuaciones();`
+ * `void top_5(int, int);`
+ * `void generarPuntuaciones(int, int);`
+ * `void puntajes(int, char[10]);`
+ * `void convertirEstructura(struct puntos[5]);`
  
- En estas funciones podemos identificar de manera clara el MVC y también la modularidad del proyecto, verPuntuaciones() es nuestro controlador, que nos ayuda a manejar nuestra vista top_5(int, int) y  a la vez, gestiona la información de los archivos de texto con el modelo convertirEstructura(struct puntos[5])logrando simular, en una sección de código, un MVC 💡
+ En estas funciones podemos identificar de manera clara el MVC y también la modularidad del proyecto, `verPuntuaciones()` es nuestro controlador, que nos ayuda a manejar nuestra `vista top_5(int, int)` y  a la vez, gestiona la información de los archivos de texto con el modelo `convertirEstructura(struct puntos[5])`logrando simular, en una sección de código, un MVC 💡
 
-  ## Instrucciones para compilar y ejecutar 👷🏽‍🛠
+  ## Instrucciones para compilar y ejecturar 👷🏽‍🛠
 
   Para ejecutar el proyecto comenzamos con lo siguiente: 
 
